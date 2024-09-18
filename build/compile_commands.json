@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/zjc/projects/opencv_project/build",
-  "command": "/usr/bin/c++   -isystem /usr/include/opencv4  -g   -o CMakeFiles/OpenCV_Project.dir/src/main.cpp.o -c /home/zjc/projects/opencv_project/src/main.cpp",
-  "file": "/home/zjc/projects/opencv_project/src/main.cpp"
-}
-]
